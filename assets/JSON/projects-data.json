@@ -1,0 +1,96 @@
+{
+    "projects": [
+        {
+            "title": "To-Do",
+            "photo": "../assets/img/projects-img/To-Do.png",
+            "viewCode": "https://github.com/Alppinae/last-TODO-Alp",
+            "viewProjects": "https://github.com/Alppinae/last-TODO-Alp",
+            "language": [
+                "HTML",
+                "CSS",
+                "JavaScript"   
+            ]
+        },
+
+    {
+        "title": "Diary App",
+        "photo": "/assets/img/projects-img/Alp-Günlük.png",
+        "viewCode": "https://github.com/Alppinae/Gunluk-Alp",
+        "viewProjects": "https://github.com/Alppinae/Gunluk-Alp",
+        "language": [
+            "HTML",
+            "CSS",
+            "JavaScript" 
+        ]
+    },
+
+   {
+    "title": "Cofferoasters About us",
+    "photo": "/assets/img/projects-img/Git-Hub-Card.png",
+    "viewCode": "https://github.com/Alppinae/GitHubCard-Alp",
+    "viewProjects": "https://github.com/Alppinae/GitHubCard-Alp",
+    "language": [
+        "HTML",
+        "CSS",
+        "JavaScript" 
+    ]
+   },
+
+   {
+    "title": "QR App",
+    "photo": "/assets/img/projects-img/Alp-QR.png",
+    "viewCode": "https://github.com/Alppinae/QR-Alp",
+    "viewProjects": "https://github.com/Alppinae/QR-Alp",
+    "language": [
+        "HTML",
+        "CSS",
+        "JavaScript"  
+    ]
+   },
+
+   {
+    "title": "QUIZ App",
+    "photo": "/assets/img/projects-img/Alp-quiz.png",
+    "viewCode": "https://github.com/Alppinae/QU-Z-Alp",
+    "viewProjects": "https://github.com/Alppinae/QU-Z-Alp",
+    "language": [
+        "HTML",
+        "CSS",
+        "JavaScript"   
+    ]
+   },
+
+   {
+    "title": "Figma-Karma",
+    "photo": "/assets/img/projects-img/faqs-accordion.JPG",
+    "viewCode": "https://github.com/Alppinae/FigmaKarma-Alp",
+    "viewProjects": "https://github.com/Alppinae/FigmaKarma-Alp",
+    "language": [
+        "HTML",
+        "CSS"   
+    ]
+   },
+   {
+    "title": "Valorant MapBan",
+    "photo": "/assets/img/projects-img/MAP-BANsitesi.png",
+    "viewCode": "https://github.com/Alppinae/Valorant-MapBAN-ALP",
+    "viewProjects": "https://github.com/Alppinae/Valorant-MapBAN-ALP",
+    "language": [
+        "HTML",
+        "CSS",
+        "JavaScript"   
+    ]
+   },
+   {
+    "title": "Team-Member-Site",
+    "photo": "/assets/img/projects-img/LST-APP.png",
+    "viewCode": "https://github.com/Alppinae/LST",
+    "viewProjects": "https://github.com/Alppinae/LST",
+    "language": [
+        "HTML",
+        "CSS",
+        "JavaScript"   
+    ]
+   }
+    ]
+}
